@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weblogic-jms xmlns="http://xmlns.oracle.com/weblogic/weblogic-jms" xmlns:sec="http://xmlns.oracle.com/weblogic/security" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wls="http://xmlns.oracle.com/weblogic/security/wls" xsi:schemaLocation="http://xmlns.oracle.com/weblogic/weblogic-jms http://xmlns.oracle.com/weblogic/weblogic-jms/1.1/weblogic-jms.xsd">
+  <connection-factory name="cf1">
+    <default-targeting-enabled>true</default-targeting-enabled>
+    <jndi-name>cf1</jndi-name>
+    <client-params>
+      <client-id-policy>Restricted</client-id-policy>
+      <subscription-sharing-policy>Exclusive</subscription-sharing-policy>
+      <messages-maximum>10</messages-maximum>
+    </client-params>
+    <transaction-params>
+      <xa-connection-factory-enabled>true</xa-connection-factory-enabled>
+    </transaction-params>
+    <security-params>
+      <attach-jmsx-user-id>false</attach-jmsx-user-id>
+      <security-policy>ThreadBased</security-policy>
+    </security-params>
+  </connection-factory>
+  <uniform-distributed-queue name="dq1">
+    <sub-deployment-name>sub1</sub-deployment-name>
+    <jndi-name>dq1</jndi-name>
+    <unit-of-work-handling-policy>PassThrough</unit-of-work-handling-policy>
+    <unit-of-order-routing>Hash</unit-of-order-routing>
+    <forward-delay>-1</forward-delay>
+  </uniform-distributed-queue>
+  <saf-imported-destinations name="ID1">
+    <sub-deployment-name>subsaf1</sub-deployment-name>
+    <saf-queue name="safq1">
+      <remote-jndi-name>dq1</remote-jndi-name>
+      <local-jndi-name>safq1</local-jndi-name>
+    </saf-queue>
+    <jndi-prefix xsi:nil="true"></jndi-prefix>
+    <saf-remote-context>RC1</saf-remote-context>
+    <saf-error-handling xsi:nil="true"></saf-error-handling>
+    <unit-of-order-routing>Hash</unit-of-order-routing>
+  </saf-imported-destinations>
+  <saf-imported-destinations name="ID2">
+    <sub-deployment-name>subsaf2</sub-deployment-name>
+    <saf-queue name="safq2">
+      <remote-jndi-name>dq1</remote-jndi-name>
+      <local-jndi-name>safq2</local-jndi-name>
+    </saf-queue>
+    <jndi-prefix xsi:nil="true"></jndi-prefix>
+    <saf-remote-context>RC1</saf-remote-context>
+    <saf-error-handling xsi:nil="true"></saf-error-handling>
+    <unit-of-order-routing>Hash</unit-of-order-routing>
+  </saf-imported-destinations>
+  <saf-remote-context name="RC1">
+    <saf-login-context>
+      <loginURL>t3://10.182.55.63:7003</loginURL>
+      <username>system</username>
+      <password-encrypted>gumby1234</password-encrypted>
+    </saf-login-context>
+  </saf-remote-context>
+</weblogic-jms>

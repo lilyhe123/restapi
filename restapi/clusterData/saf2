@@ -1,0 +1,11 @@
+{
+  "messagesThresholdHigh": -1,
+  "targets": [{
+               "identity":["clusters", "myCluster"]
+              }],
+  "store": [
+     "fileStores",
+     "filestore2"
+    ],
+  "name": "safagent2"
+}

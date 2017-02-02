@@ -1,0 +1,6 @@
+{
+  "name": "sub2",
+  "targets":[{
+              "identity": [ "JMSServers", "jmsserver2" ]
+            }]
+}

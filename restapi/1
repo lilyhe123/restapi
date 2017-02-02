@@ -1,0 +1,10 @@
+
+with open("ms1.new", "w") as outs:
+    with open("ms1.log00002", "r") as ins:
+        array = []
+        for line in ins:
+            if line.find('BEA-000000') != -1:
+                outs.write(line[line.find('BEA-000000')+12:])
+
+
+

@@ -1,0 +1,11 @@
+{
+  "name": "filestore2",
+  "numberOfRestartAttempts": 3,
+  "migrationPolicy": "Off",
+  "secondsBetweenRestarts": 5,
+  "restartInPlace": true,
+  "targets": [{
+               "identity":["servers", "admin"]
+              }]
+}
+

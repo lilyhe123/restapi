@@ -1,0 +1,1282 @@
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<UDDEntityHelper.nodifyUDD failure: jmsserver1@ms1
+<at weblogic.jms.backend.udd.UDDEntityHelper.notifyUDD(UDDEntityHelper.java:115)> 
+<at weblogic.jms.backend.udd.UDDEntityHelper.activateLocalJMSServer(UDDEntityHelper.java:38)> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver1@ms1> 
+<start UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.deactivateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<end UDDEntityHelper.unprepareLocalJMSServer: jmsserver2@ms1> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver1@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.prepareLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<start UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 
+<end UDDEntityHelper.activateLocalJMSServer: jmsserver2@ms1 partitionName:DOMAIN> 

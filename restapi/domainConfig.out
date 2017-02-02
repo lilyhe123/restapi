@@ -1,0 +1,489 @@
+200
+{
+    "links": [
+        {
+            "rel": "parent",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest"
+        },
+        {
+            "rel": "self",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig"
+        },
+        {
+            "rel": "canonical",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig"
+        },
+        {
+            "rel": "resourceGroups",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/resourceGroups"
+        },
+        {
+            "rel": "virtualHosts",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/virtualHosts"
+        },
+        {
+            "rel": "systemComponentConfigurations",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/systemComponentConfigurations"
+        },
+        {
+            "rel": "customResources",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/customResources"
+        },
+        {
+            "rel": "managedScheduledExecutorServiceTemplates",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/managedScheduledExecutorServiceTemplates"
+        },
+        {
+            "rel": "shutdownClasses",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/shutdownClasses"
+        },
+        {
+            "rel": "mailSessions",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/mailSessions"
+        },
+        {
+            "rel": "replicatedStores",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/replicatedStores"
+        },
+        {
+            "rel": "configurationProperties",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/configurationProperties"
+        },
+        {
+            "rel": "logFilters",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/logFilters"
+        },
+        {
+            "rel": "messagingBridges",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/messagingBridges"
+        },
+        {
+            "rel": "joltConnectionPools",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/joltConnectionPools"
+        },
+        {
+            "rel": "partitions",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/partitions"
+        },
+        {
+            "rel": "internalLibraries",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/internalLibraries"
+        },
+        {
+            "rel": "fileStores",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/fileStores"
+        },
+        {
+            "rel": "XMLEntityCaches",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/XMLEntityCaches"
+        },
+        {
+            "rel": "coherenceClusterSystemResources",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/coherenceClusterSystemResources"
+        },
+        {
+            "rel": "JDBCSystemResources",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JDBCSystemResources"
+        },
+        {
+            "rel": "XMLRegistries",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/XMLRegistries"
+        },
+        {
+            "rel": "JMSSystemResources",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSSystemResources"
+        },
+        {
+            "rel": "startupClasses",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/startupClasses"
+        },
+        {
+            "rel": "foreignJNDIProviders",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/foreignJNDIProviders"
+        },
+        {
+            "rel": "JMSInteropModules",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSInteropModules"
+        },
+        {
+            "rel": "managedExecutorServices",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/managedExecutorServices"
+        },
+        {
+            "rel": "virtualTargets",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/virtualTargets"
+        },
+        {
+            "rel": "JMSServers",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSServers"
+        },
+        {
+            "rel": "servers",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/servers"
+        },
+        {
+            "rel": "osgiFrameworks",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/osgiFrameworks"
+        },
+        {
+            "rel": "migratableTargets",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/migratableTargets"
+        },
+        {
+            "rel": "WLDFSystemResources",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/WLDFSystemResources"
+        },
+        {
+            "rel": "appDeployments",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/appDeployments"
+        },
+        {
+            "rel": "managedScheduledExecutorServices",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/managedScheduledExecutorServices"
+        },
+        {
+            "rel": "partitionWorkManagers",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/partitionWorkManagers"
+        },
+        {
+            "rel": "clusters",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/clusters"
+        },
+        {
+            "rel": "WSReliableDeliveryPolicies",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/WSReliableDeliveryPolicies"
+        },
+        {
+            "rel": "internalAppDeployments",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/internalAppDeployments"
+        },
+        {
+            "rel": "libraries",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/libraries"
+        },
+        {
+            "rel": "managedThreadFactoryTemplates",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/managedThreadFactoryTemplates"
+        },
+        {
+            "rel": "coherenceManagementClusters",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/coherenceManagementClusters"
+        },
+        {
+            "rel": "SAFAgents",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/SAFAgents"
+        },
+        {
+            "rel": "JMSBridgeDestinations",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSBridgeDestinations"
+        },
+        {
+            "rel": "resourceGroupTemplates",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/resourceGroupTemplates"
+        },
+        {
+            "rel": "managedExecutorServiceTemplates",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/managedExecutorServiceTemplates"
+        },
+        {
+            "rel": "serverTemplates",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/serverTemplates"
+        },
+        {
+            "rel": "coherenceServers",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/coherenceServers"
+        },
+        {
+            "rel": "webserviceSecurities",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/webserviceSecurities"
+        },
+        {
+            "rel": "singletonServices",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/singletonServices"
+        },
+        {
+            "rel": "SNMPAgentDeployments",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/SNMPAgentDeployments"
+        },
+        {
+            "rel": "managedThreadFactories",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/managedThreadFactories"
+        },
+        {
+            "rel": "machines",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/machines"
+        },
+        {
+            "rel": "systemComponents",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/systemComponents"
+        },
+        {
+            "rel": "JDBCStores",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JDBCStores"
+        },
+        {
+            "rel": "WTCServers",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/WTCServers"
+        },
+        {
+            "rel": "lifecycleManagerConfig",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/lifecycleManagerConfig"
+        },
+        {
+            "rel": "resourceManagement",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/resourceManagement"
+        },
+        {
+            "rel": "cdiContainer",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/cdiContainer"
+        },
+        {
+            "rel": "adminConsole",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/adminConsole"
+        },
+        {
+            "rel": "log",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/log"
+        },
+        {
+            "rel": "debugPatches",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/debugPatches"
+        },
+        {
+            "rel": "embeddedLDAP",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/embeddedLDAP"
+        },
+        {
+            "rel": "optionalFeatureDeployment",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/optionalFeatureDeployment"
+        },
+        {
+            "rel": "restfulManagementServices",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/restfulManagementServices"
+        },
+        {
+            "rel": "webAppContainer",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/webAppContainer"
+        },
+        {
+            "rel": "selfTuning",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/selfTuning"
+        },
+        {
+            "rel": "deploymentConfiguration",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/deploymentConfiguration"
+        },
+        {
+            "rel": "SNMPAgent",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/SNMPAgent"
+        },
+        {
+            "rel": "JMX",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMX"
+        },
+        {
+            "rel": "JTA",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JTA"
+        },
+        {
+            "rel": "webserviceTestpage",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/webserviceTestpage"
+        },
+        {
+            "rel": "JPA",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JPA"
+        },
+        {
+            "rel": "securityConfiguration",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/securityConfiguration"
+        },
+        {
+            "rel": "interceptors",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/interceptors"
+        },
+        {
+            "rel": "batchConfig",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/batchConfig"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/findConfigBeansWithTags",
+            "title": "findConfigBeansWithTags"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/arePartitionsPresent",
+            "title": "arePartitionsPresent"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/listTags",
+            "title": "listTags"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/findPartitionByID",
+            "title": "findPartitionByID"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/lookupTarget",
+            "title": "lookupTarget"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/lookupSystemResource",
+            "title": "lookupSystemResource"
+        },
+        {
+            "rel": "search",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/search"
+        }
+    ],
+    "identity": [],
+    "consoleContextPath": "console",
+    "batchJobsExecutorServiceName": null,
+    "notes": null,
+    "lastModificationTime": 0,
+    "administrationProtocol": "t3s",
+    "rootDirectory": "\/Users\/lilyhe\/domains\/singleserver",
+    "siteName": null,
+    "productionModeEnabled": false,
+    "type": "Domain",
+    "archiveConfigurationCount": 0,
+    "consoleEnabled": true,
+    "configurationVersion": "12.2.1.3.0",
+    "administrationPort": 9002,
+    "partitionUriSpace": "\/partitions",
+    "id": 0,
+    "batchJobsDataSourceJndiName": null,
+    "dynamicallyCreated": false,
+    "domainVersion": "12.2.1.3.0",
+    "internalAppsDeployOnDemandEnabled": true,
+    "serverMigrationHistorySize": 100,
+    "consoleExtensionDirectory": "console-ext",
+    "clusterConstraintsEnabled": false,
+    "parallelDeployApplications": true,
+    "logFormatCompatibilityEnabled": false,
+    "enableEECompliantClassloadingForEmbeddedAdapters": true,
+    "exalogicOptimizationsEnabled": false,
+    "javaServiceConsoleEnabled": false,
+    "maxConcurrentLongRunningRequests": 50,
+    "configurationAuditType": "none",
+    "maxConcurrentNewThreads": 50,
+    "administrationPortEnabled": false,
+    "tags": [],
+    "configBackupEnabled": false,
+    "adminServerName": "admin",
+    "javaServiceEnabled": false,
+    "parallelDeployApplicationModules": false,
+    "name": "domain",
+    "diagnosticContextCompatibilityModeEnabled": true,
+    "serviceMigrationHistorySize": 100,
+    "deployments": [
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSServers\/JMSServer1"
+            }],
+            "identity": [
+                "JMSServers",
+                "JMSServer1"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSServers\/JMSServer2"
+            }],
+            "identity": [
+                "JMSServers",
+                "JMSServer2"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/fileStores\/FileStore1"
+            }],
+            "identity": [
+                "fileStores",
+                "FileStore1"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/fileStores\/FileStore2"
+            }],
+            "identity": [
+                "fileStores",
+                "FileStore2"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/SAFAgents\/SAFAgent1"
+            }],
+            "identity": [
+                "SAFAgents",
+                "SAFAgent1"
+            ]
+        }
+    ],
+    "systemResources": [{
+        "links": [{
+            "rel": "canonical",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSSystemResources\/JmsRes"
+        }],
+        "identity": [
+            "JMSSystemResources",
+            "JmsRes"
+        ]
+    }],
+    "targets": [
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/servers\/admin"
+            }],
+            "identity": [
+                "servers",
+                "admin"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSServers\/JMSServer1"
+            }],
+            "identity": [
+                "JMSServers",
+                "JMSServer1"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/JMSServers\/JMSServer2"
+            }],
+            "identity": [
+                "JMSServers",
+                "JMSServer2"
+            ]
+        },
+        {
+            "links": [{
+                "rel": "canonical",
+                "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/domainConfig\/SAFAgents\/SAFAgent1"
+            }],
+            "identity": [
+                "SAFAgents",
+                "SAFAgent1"
+            ]
+        }
+    ]
+}
+None
+None

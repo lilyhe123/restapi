@@ -1,0 +1,339 @@
+200
+{
+    "links": [
+        {
+            "rel": "parent",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest"
+        },
+        {
+            "rel": "self",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime"
+        },
+        {
+            "rel": "canonical",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime"
+        },
+        {
+            "rel": "maxThreadsConstraintRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/maxThreadsConstraintRuntimes"
+        },
+        {
+            "rel": "webServerRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/webServerRuntimes"
+        },
+        {
+            "rel": "minThreadsConstraintRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/minThreadsConstraintRuntimes"
+        },
+        {
+            "rel": "pathServiceRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/pathServiceRuntimes"
+        },
+        {
+            "rel": "persistentStoreRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/persistentStoreRuntimes"
+        },
+        {
+            "rel": "partitionRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/partitionRuntimes"
+        },
+        {
+            "rel": "serverChannelRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/serverChannelRuntimes"
+        },
+        {
+            "rel": "requestClassRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/requestClassRuntimes"
+        },
+        {
+            "rel": "libraryRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/libraryRuntimes"
+        },
+        {
+            "rel": "executeQueueRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/executeQueueRuntimes"
+        },
+        {
+            "rel": "workManagerRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/workManagerRuntimes"
+        },
+        {
+            "rel": "messagingBridgeRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/messagingBridgeRuntimes"
+        },
+        {
+            "rel": "mailSessionRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/mailSessionRuntimes"
+        },
+        {
+            "rel": "applicationRuntimes",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/applicationRuntimes"
+        },
+        {
+            "rel": "MANAsyncReplicationRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/MANAsyncReplicationRuntime"
+        },
+        {
+            "rel": "singleSignOnServicesRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/singleSignOnServicesRuntime"
+        },
+        {
+            "rel": "wseeWsrmRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/wseeWsrmRuntime"
+        },
+        {
+            "rel": "batchJobRepositoryRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/batchJobRepositoryRuntime"
+        },
+        {
+            "rel": "JVMRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/JVMRuntime"
+        },
+        {
+            "rel": "asyncReplicationRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/asyncReplicationRuntime"
+        },
+        {
+            "rel": "serverSecurityRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/serverSecurityRuntime"
+        },
+        {
+            "rel": "entityCacheCurrentStateRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/entityCacheCurrentStateRuntime"
+        },
+        {
+            "rel": "SNMPAgentRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/SNMPAgentRuntime"
+        },
+        {
+            "rel": "clusterRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/clusterRuntime"
+        },
+        {
+            "rel": "joltRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/joltRuntime"
+        },
+        {
+            "rel": "timerRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/timerRuntime"
+        },
+        {
+            "rel": "threadPoolRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/threadPoolRuntime"
+        },
+        {
+            "rel": "defaultExecuteQueueRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/defaultExecuteQueueRuntime"
+        },
+        {
+            "rel": "wseeClusterFrontEndRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/wseeClusterFrontEndRuntime"
+        },
+        {
+            "rel": "logBroadcasterRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/logBroadcasterRuntime"
+        },
+        {
+            "rel": "concurrentManagedObjectsRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/concurrentManagedObjectsRuntime"
+        },
+        {
+            "rel": "entityCacheCumulativeRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/entityCacheCumulativeRuntime"
+        },
+        {
+            "rel": "entityCacheHistoricalRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/entityCacheHistoricalRuntime"
+        },
+        {
+            "rel": "JTARuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/JTARuntime"
+        },
+        {
+            "rel": "connectorServiceRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/connectorServiceRuntime"
+        },
+        {
+            "rel": "MANReplicationRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/MANReplicationRuntime"
+        },
+        {
+            "rel": "SAFRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/SAFRuntime"
+        },
+        {
+            "rel": "classLoaderRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/classLoaderRuntime"
+        },
+        {
+            "rel": "WLDFRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/WLDFRuntime"
+        },
+        {
+            "rel": "WTCRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/WTCRuntime"
+        },
+        {
+            "rel": "JMSRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/JMSRuntime"
+        },
+        {
+            "rel": "JDBCServiceRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/JDBCServiceRuntime"
+        },
+        {
+            "rel": "WANReplicationRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/WANReplicationRuntime"
+        },
+        {
+            "rel": "serverLogRuntime",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/serverLogRuntime"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/suspend",
+            "title": "suspend"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/resume",
+            "title": "resume"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/getIPv4URL",
+            "title": "getIPv4URL"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/getIPv6URL",
+            "title": "getIPv6URL"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/startResourceGroup",
+            "title": "startResourceGroup"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/suspendResourceGroup",
+            "title": "suspendResourceGroup"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/resumeResourceGroup",
+            "title": "resumeResourceGroup"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/forceSuspendResourceGroup",
+            "title": "forceSuspendResourceGroup"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/startPartitionInAdmin",
+            "title": "startPartitionInAdmin"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/getURL",
+            "title": "getURL"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/startPartition",
+            "title": "startPartition"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/bootPartition",
+            "title": "bootPartition"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/forceRestartPartition",
+            "title": "forceRestartPartition"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/shutdownResourceGroup",
+            "title": "shutdownResourceGroup"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/getRgState",
+            "title": "getRgState"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/forceSuspend",
+            "title": "forceSuspend"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/restartSSLChannels",
+            "title": "restartSSLChannels"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/startResourceGroupInAdmin",
+            "title": "startResourceGroupInAdmin"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/forceShutdown",
+            "title": "forceShutdown"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/shutdown",
+            "title": "shutdown"
+        },
+        {
+            "rel": "action",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/forceShutdownResourceGroup",
+            "title": "forceShutdownResourceGroup"
+        },
+        {
+            "rel": "search",
+            "href": "http:\/\/localhost:7001\/management\/weblogic\/latest\/serverRuntime\/search"
+        }
+    ],
+    "identity": [],
+    "stateVal": 2,
+    "type": "ServerRuntime",
+    "weblogicVersion": "WebLogic Server 12.2.1.3.0 Wed Dec 14 11:41:11 PST 2016 1844568",
+    "adminServerHost": "192.168.3.6",
+    "overallHealthState": {
+        "state": "ok",
+        "subsystemName": null,
+        "partitionName": null,
+        "symptoms": []
+    },
+    "restartRequired": false,
+    "middlewareHome": "\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home",
+    "listenPortEnabled": true,
+    "weblogicHome": "\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver",
+    "adminServer": true,
+    "SSLListenPortEnabled": false,
+    "state": "RUNNING",
+    "activationTime": 1484405000107,
+    "defaultURL": "t3:\/\/192.168.3.6:7001",
+    "adminServerListenPort": 7001,
+    "currentMachine": "",
+    "openSocketsCurrentCount": 1,
+    "administrationPortEnabled": false,
+    "administrationURL": "t3:\/\/192.168.3.6:7001",
+    "adminServerListenPortSecure": false,
+    "healthState": {
+        "state": "ok",
+        "subsystemName": null,
+        "partitionName": null,
+        "symptoms": []
+    },
+    "currentDirectory": "\/Users\/lilyhe\/domains\/singleserver\/.",
+    "name": "admin",
+    "serverClasspath": "\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/resources.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/rt.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/sunrsasign.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/jsse.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/jce.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/charsets.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/lib\/jfr.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/jre\/classes:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk18074b02\/jdk1.8.0_74.jdk\/Contents\/Home\/lib\/tools.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/server\/lib\/weblogic.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/..\/oracle_common\/modules\/net.sf.antcontrib_1.1.0.0_1-0b3\/lib\/ant-contrib.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/modules\/features\/oracle.wls.common.nodemanager.jar::\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/common\/derby\/lib\/derbynet.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/common\/derby\/lib\/derbyclient.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/common\/derby\/lib\/derby.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/server\/classes:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/..\/oracle_common\/modules\/org.apache.ant_1.9.2\/lib\/ant.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/..\/oracle_common\/modules\/org.apache.ant_1.9.2\/lib\/ant-launcher.jar:\/Users\/lilyhe\/depot\/dev\/auto_download\/jdk180111b99\/jdk1.8.0_111.jdk\/Contents\/Home\/lib\/tools.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/..\/oracle_common\/modules\/features\/wlst.cam.classpath.jar:\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/modules\/features\/wlst.wls.classpath.jar::\/Users\/lilyhe\/depot\/src122130_build\/Oracle_Home\/wlserver\/server\/lib\/debugpatch-agent.jar"
+}
+None
+None

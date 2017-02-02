@@ -1,0 +1,13 @@
+{
+  "file1": {"url": "edit/fileStores","data": "clusterData/filestore1"},
+  "file2": {"url": "edit/fileStores","data": "clusterData/filestore2"},
+  "jms1": {"url": "edit/JMSServers","data": "clusterData/jmsserver1"},
+  "jms2": {"url": "edit/JMSServers","data": "clusterData/jmsserver2"},
+  "saf1": {"url": "edit/SAFAgents","data": "clusterData/saf1"},
+  "saf2": {"url": "edit/SAFAgents","data": "clusterData/saf2"},
+  "module": {"url": "edit/JMSSystemResources","data": "clusterData/module"},
+  "sub1": {"url": "edit/JMSSystemResources/mymodule/subDeployments","data": "clusterData/sub1"},
+  "sub2": {"url": "edit/JMSSystemResources/mymodule/subDeployments","data": "clusterData/sub2"},
+  "subsaf1": {"url": "edit/JMSSystemResources/mymodule/subDeployments","data": "clusterData/subsaf1"},
+  "subsaf2": {"url": "edit/JMSSystemResources/mymodule/subDeployments","data": "clusterData/subsaf2"}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "mymodule",
+  "targets":[{
+              "identity":["servers", "admin"]
+            }]
+}

@@ -1,0 +1,30 @@
+HTTP(HyperText Transfer Protocol)
+
+https://www.tutorialspoint.com/http/http_message_examples.htm
+http://httpwg.org/specs/
+
+URI = "http:" "//" host [ ":" port ] [ abs_path [ "?" query ]]
+
+date/time format: Greenwich Mean Time (GMT)
+
+character sets: US-ASCII, ISO-8859-1, UTF-8
+content encoding: gzip, compress, deflate
+midia type: 
+
+request methods: get, head, post, put, delete, connect
+post: 
+1. There's a block of data sent with the request, in the message body. There are usually extra headers to describe this message body, like Content-Type: and Content-Length:.
+2. The request URI is not a resource to retrieve; it's usually a program to handle the data you're sending.
+3. The HTTP response is normally program output, not a static file.
+
+http caching
+
+
+
+
+backup
+LVM snapshots per 24 hours
+Regular backups per 24 hours
+Disk snapshots in Azure
+ backups to S3
+ pg_basebackup

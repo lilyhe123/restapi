@@ -1,0 +1,9 @@
+{
+  "file1": {"url": "edit/fileStores","data": "data/filestore1"},
+  "jms1": {"url": "edit/JMSServers","data": "data/jmsserver1"},
+  "file2": {"url": "edit/fileStores","data": "data/filestore2"},
+  "jms2": {"url": "edit/JMSServers","data": "data/jmsserver2"},
+  "module": {"url": "edit/JMSSystemResources","data": "data/module"},
+  "sub1": {"url": "edit/JMSSystemResources/mymodule/subDeployments","data": "data/sub1"},
+  "sub2": {"url": "edit/JMSSystemResources/mymodule/subDeployments","data": "data/sub2"}
+}

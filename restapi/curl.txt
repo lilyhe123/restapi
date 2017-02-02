@@ -1,0 +1,83 @@
+
+
+todo
+calculate time WLST uses
+create spent 3.26740503311 seconds
+0 minutes and 54 seconds elapsed.
+update a WL resource
+
+p4 unshelve -s 1851352 : do RP one by one change
+
+export JAVA_HOME_ctl=/Users/lilyhe/depot/dev/auto_download/jdk180111b99/jdk1.8.0_111.jdk/Contents/Home/
+
+
+get
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-X GET http://localhost:7001/management/weblogic/latest/domainConfig/JMSSystemResources/JmsRes
+-X GET http://localhost:7001/management/weblogic/latest/domainRuntime/serverLifeCycleRuntimes/Server22
+
+
+Getting a JSON Template
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-X GET http://localhost:7001/management/weblogic/latest/edit/serverCreateForm
+
+
+create
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-H Content-Type:application/json \
+-d "{
+  name: "cluster1",
+}" -X POST http://localhost:7001/management/weblogic/latest/edit/clusters
+
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-H Content-Type:application/json \
+-d "{
+  name: "Server22",
+  cluster: ["clusters", "cluster1" ]
+}" -X POST http://localhost:7001/management/weblogic/latest/edit/servers
+
+update
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-H Content-Type:application/json \
+-d "{
+  listenPort: 7007
+}" -X POST http://localhost:7001/management/weblogic/latest/edit/servers/Server22
+
+delete
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-X DELETE http://localhost:7001/management/weblogic/latest/edit/servers/Server22
+
+Invoking Operations
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-X POST http://localhost:7001/management/weblogic/latest/domainRuntime/serverLifeCycleRuntimes/Server22/start
+
+
+
+curl -v \
+--user system:gumby1234 \
+-H X-Requested-By:MyClient \
+-H Accept:application/json \
+-H Content-Type:application/json \
+-d "`cat jmsserver.option`" \
+-X POST http://localhost:7001/management/weblogic/latest/edit/JMSServers

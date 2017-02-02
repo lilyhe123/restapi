@@ -1,0 +1,11 @@
+{
+  "messagesThresholdHigh": -1,
+  "targets": [{
+               "identity":["servers", "admin"]
+              }],
+  "persistentStore": [
+     "fileStores",
+     "filestore1"
+    ],
+  "name": "jmsserver1"
+}

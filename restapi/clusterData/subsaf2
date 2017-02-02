@@ -1,0 +1,6 @@
+{
+  "name": "subsaf2",
+  "targets":[{
+              "identity": [ "SAFAgents", "safagent2" ]
+            }]
+}
